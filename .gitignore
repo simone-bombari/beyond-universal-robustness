@@ -1,0 +1,8 @@
+# Ignore all folders
+*/
+
+# Ignore all PDF files
+*.pdf
+
+# Ignore auxiliary .ipynb
+to_plot_new_act.ipynb
